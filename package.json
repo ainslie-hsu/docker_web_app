@@ -1,0 +1,22 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainslie-hsu/docker_web_app.git"
+  },
+  "author": "Ainslie Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainslie-hsu/docker_web_app/issues"
+  },
+  "homepage": "https://github.com/ainslie-hsu/docker_web_app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
